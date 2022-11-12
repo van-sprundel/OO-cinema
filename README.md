@@ -1,8 +1,7 @@
 # cinema-rust
-Cinema system concept implementing design patterns in Rust
+Cinema system implementing design patterns
 
-The motivation for this project is to see if I can translate design patterns (implemented in a previous Java project) into Rust.
-OO-patterns have never been considered perfect, especially for system development, so it was seemed fun to try to implement these in a safe language :)
+The motivation for this project is to see if I can take a previous Java project using design patterns, and port them to to Rust.
 
 Patterns implemented:
 - [x] State
